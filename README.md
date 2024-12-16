@@ -49,7 +49,7 @@ promptverse/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/llmops-tool.git
+   git clone https://github.com/h-albert-lee/promptverse.git
    cd llmops-tool
    ```
 2. Install the required dependencies:
