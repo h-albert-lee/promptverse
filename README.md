@@ -25,7 +25,7 @@ Promptverse is a streamlined application designed for managing prompts, applicat
 
 ## Directory Structure
 ```
-llmops_tool/
+promptverse/
 ├── app.py                  # Main Streamlit application
 ├── backend/
 │   ├── __init__.py
