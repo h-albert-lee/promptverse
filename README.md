@@ -36,13 +36,6 @@ llmops_tool/
 │   ├── dataset_manager.py  # Dataset management functions
 │   ├── evaluation.py       # API evaluation functions
 │   ├── yaml_manager.py     # YAML read/write operations
-├── tests/
-│   ├── test_database.py    # Unit tests for database module
-│   ├── test_prompt.py      # Unit tests for prompt logic
-│   ├── test_application.py # Unit tests for application management
-│   ├── test_dataset.py     # Unit tests for dataset management
-│   ├── test_evaluation.py  # Unit tests for API evaluation logic
-│   ├── test_yaml.py        # Unit tests for YAML operations
 ```
 
 ## Prerequisites
